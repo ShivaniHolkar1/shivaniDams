@@ -1,0 +1,538 @@
+{
+    "root": [
+        {
+            "key": "0",
+            "data": {
+                "id": 64,
+                "name": " 1.1.Intangible Assets"
+                
+            },
+            "children": [
+                {
+                    "key": "0-0",
+                    "data": {
+                        "id": 65,
+                        "name": "1.1.1. Objective and scope:"
+                        
+                    }
+                },
+                {
+                    "key": "0-1",
+                    "data": {
+                        "id": 69,
+                        "name": "1.1.2. Definitions:"
+                       
+                    }
+                },
+                {
+                    "key": "0-2",
+                    "data": {
+                        "id": 73,
+                        "name": "1.1.3. Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "0-3",
+                    "data": {
+                        "id": 77,
+                        "name": " 1.1.4. Disclosure:"
+                    }
+                 
+                },
+                {
+                    "key": "0-4",
+                    "data": {
+                        "id": 81,
+                        "name": "1.1.5. GAAP differences between Ind AS and IFRS:"
+                      
+                    }
+                  
+                }
+            ]
+        },
+
+        {
+            "key": "1",
+            "data": {
+                "id": 64,
+                "name": " 1.2. Property, plant and equipment"
+                
+            },
+            "children": [
+                {
+                    "key": "1-0",
+                    "data": {
+                        "id": 65,
+                        "name": " 1.2.1. Objective and scope:"
+                        
+                    }
+                },
+                {
+                    "key": "1-1",
+                    "data": {
+                        "id": 69,
+                        "name": "1.2.2. Definitions:"
+                       
+                    }
+                },
+                {
+                    "key": "1-2",
+                    "data": {
+                        "id": 73,
+                        "name": "1.2.3. Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "1-3",
+                    "data": {
+                        "id": 77,
+                        "name": " 1.2.4. Disclosure:"
+                    }
+                 
+                },
+                {
+                    "key": "1-4",
+                    "data": {
+                        "id": 81,
+                        "name": "1.2.5. GAAP differences between Ind AS and IFRS:"
+                      
+                    }
+                  
+                }
+            ]
+        },
+      
+        {
+            "key": "2",
+            "data": {
+                "id": 64,
+                "name": " 1.3. Inventories"
+                
+            },
+            "children": [
+                {
+                    "key": "2-0",
+                    "data": {
+                        "id": 65,
+                        "name": "1.3.1. Objective and scope:"
+                        
+                    }
+                },
+                {
+                    "key": "2-1",
+                    "data": {
+                        "id": 69,
+                        "name": "1.3.2. Definitions:"
+                       
+                    }
+                },
+                {
+                    "key": "2-2",
+                    "data": {
+                        "id": 73,
+                        "name": "1.3.3. Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "2-3",
+                    "data": {
+                        "id": 77,
+                        "name": " 1.3.4. Disclosure:"
+                    }
+                 
+                },
+                {
+                    "key": "2-4",
+                    "data": {
+                        "id": 81,
+                        "name": "1.3.5. GAAP differences between Ind AS and IFRS:"
+                      
+                    }
+                  
+                }
+            ]
+        },
+      
+        {
+            "key": "3",
+            "data": {
+                "id": 64,
+                "name": " 1.4. Borrowing costs"
+                
+            },
+            "children": [
+                {
+                    "key": "3-0",
+                    "data": {
+                        "id": 65,
+                        "name": "1.4.1.  Objective and scope:"
+                        
+                    }
+                },
+                {
+                    "key": "3-1",
+                    "data": {
+                        "id": 69,
+                        "name": "1.4.2.  Definitions:"
+                       
+                    }
+                },
+                {
+                    "key": "3-2",
+                    "data": {
+                        "id": 73,
+                        "name": "1.4.3. Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "3-3",
+                    "data": {
+                        "id": 77,
+                        "name": " 1.4.4. Disclosure:"
+                    }
+                 
+                },
+                {
+                    "key": "3-4",
+                    "data": {
+                        "id": 81,
+                        "name": "1.4.5. GAAP differences between Ind AS and IFRS:"
+                      
+                    }
+                  
+                }
+            ]
+        },
+
+        {
+            "key": "4",
+            "data": {
+                "id": 64,
+                "name": " 1.5. Statement of Cash Flows"
+                
+            },
+            "children": [
+                {
+                    "key": "4-0",
+                    "data": {
+                        "id": 65,
+                        "name": "1.5.1.  Objective and scope:"
+                        
+                    }
+                },
+                {
+                    "key": "4-1",
+                    "data": {
+                        "id": 69,
+                        "name": "1.5.2.  Definitions:"
+                       
+                    }
+                },
+                {
+                    "key": "4-2",
+                    "data": {
+                        "id": 73,
+                        "name": "1.5.3.  Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "4-3",
+                    "data": {
+                        "id": 77,
+                        "name": " 1.5.4.  Disclosure:"
+                    }
+                 
+                },
+                {
+                    "key": "4-4",
+                    "data": {
+                        "id": 81,
+                        "name": "1.5.5. GAAP differences between Ind AS and IFRS:"
+                      
+                    }
+                  
+                }
+            ]
+        },
+       
+        {
+            "key": "5",
+            "data": {
+                "id": 64,
+                "name": " 1.6. Events after Reporting Period"
+                
+            },
+            "children": [
+                {
+                    "key": "5-0",
+                    "data": {
+                        "id": 65,
+                        "name": "1.6.1. Objective and scope:"
+                        
+                    }
+                },
+                {
+                    "key": "5-1",
+                    "data": {
+                        "id": 69,
+                        "name": "1.6.2. Definitions:"
+                       
+                    }
+                },
+                {
+                    "key": "5-2",
+                    "data": {
+                        "id": 73,
+                        "name": "1.6.3. Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "5-3",
+                    "data": {
+                        "id": 77,
+                        "name": " 1.6.4. Disclosure:"
+                    }
+                 
+                },
+                {
+                    "key": "5-4",
+                    "data": {
+                        "id": 81,
+                        "name": "1.6.5. GAAP differences between Ind AS and IFRS:"
+                      
+                    }
+                  
+                }
+            ]
+        },
+       
+        {
+            "key": "6",
+            "data": {
+                "id": 64,
+                "name": " 1.7. Earnings per Share"
+                
+            },
+            "children": [
+                {
+                    "key": "6-0",
+                    "data": {
+                        "id": 65,
+                        "name": "1.7.1. Objective and scope:"
+                        
+                    }
+                },
+                {
+                    "key": "6-1",
+                    "data": {
+                        "id": 69,
+                        "name": "1.7.2. Definitions:"
+                       
+                    }
+                },
+                {
+                    "key": "6-2",
+                    "data": {
+                        "id": 73,
+                        "name": "1.7.3. Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "6-3",
+                    "data": {
+                        "id": 77,
+                        "name": " 1.7.4. Disclosure:"
+                    }
+                 
+                },
+                {
+                    "key": "6-4",
+                    "data": {
+                        "id": 81,
+                        "name": "1.7.5. GAAP differences between Ind AS and IFRS:"
+                      
+                    }
+                  
+                }
+            ]
+        },
+      
+        {
+            "key": "7",
+            "data": {
+                "id": 43,
+                "name": " 1.8.Impairment of Assets"
+               
+            },
+            "children": [
+                {
+                    "key": "7-0",
+                    "data": {
+                        "id": 44,
+                        "name": "1.8.1. Objective and scope:"
+                        
+                    }
+                   
+                },
+                {
+                    "key": "7-1",
+                    "data": {
+                        "id": 48,
+                        "name": "1.8.2. Definitions"
+                        
+                    }
+                },
+                {
+                    "key": "7-2",
+                    "data": {
+                        "id": 52,
+                        "name": "1.8.3. Recognition and measurement:"
+                       
+                    }
+                },
+                {
+                    "key": "7-3",
+                    "data": {
+                        "id": 56,
+                        "name": " 1.8.4. Disclosure:"
+                       
+                    }
+                   
+                },
+                {
+                    "key": "7-4",
+                    "data": {
+                        "id": 60,
+                        "name": " 1.8.5. GAAP differences between Ind AS and IFRS:"
+                        
+                    }
+                }
+            ]
+        },
+        {
+            "key": "8",
+            "data": {
+                "id": 22,
+                "name": " 1.9.Non-current Assets Held for sale and Discontinued Operation"
+                
+            },
+            "children": [
+                {
+                    "key": "8-0",
+                    "data": {
+                        "id": 23,
+                        "name": "1.9.1. Objective and scope:"
+                      
+                    }
+                   
+                },
+                {
+                    "key": "8-1",
+                    "data": {
+                        "id": 27,
+                        "name": "1.9.2. Definitions:"
+                       
+                    }
+                  
+                },
+                {
+                    "key": "8-2",
+                    "data": {
+                        "id": 31,
+                        "name": "1.9.3. Recognition and measurements:"
+                      
+                    }
+                  
+                },
+                {
+                    "key": "8-3",
+                    "data": {
+                        "id": 35,
+                        "name": "1.9.4. Disclosure:"
+                        
+                    }
+                    
+                },
+                {
+                    "key": "8-4",
+                    "data": {
+                        "id": 39,
+                        "name": "1.9.5. GAAP differences between Ind AS and IFRS:"
+                       
+                    }
+                    
+                }
+            ]
+        },
+    
+     
+
+
+
+
+
+
+
+    
+        {
+            "key": "9",
+            "data": {
+                "id": 1,
+                "name": "1.10. Accounting for Government Grant and Disclosure of Government Assistance",
+                "link":"Assets/Documents/1.3.docx"
+            },
+            "children": [
+                {
+                    "key": "9-0",
+                    "data": {
+                        "id": 2,
+                        "name": "1.10.1. Objective and scope:"
+                    }
+                },
+                {
+                    "key": "9-1",
+                    "data": {
+                        "id": 6,
+                        "name": "1.10.2. Definitions:"
+                    }
+                },
+                {
+                    "key": "9-2",
+                    "data": {
+                        "id": 10,
+                        "name": "1.10.3. Recognition and measurement:"
+                        
+                    }
+                },
+                {
+                    "key": "9-3",
+                    "data": {
+                        "id": 14,
+                        "name": "1.10.4. Disclosure:"
+                       
+                    }
+                },
+                {
+                    "key": "9-4",
+                    "data": {
+                        "id": 18,
+                        "name": "1.10.5. GAAP differences between Ind AS and IFRS:"
+                        
+                    }
+                }
+            ]
+        }
+
+    
+      
+        
+      
+    ]
+}
